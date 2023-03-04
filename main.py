@@ -27,9 +27,5 @@ def guess_number(guess):
                 <img src='https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif' style='width:400px;height:400px;'>"
     
 
-
-
-
-
 if __name__ == "__main__":
     app.run(debug=True)
